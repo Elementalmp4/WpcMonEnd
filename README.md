@@ -33,5 +33,5 @@ computer!
 
 Alternatively, you can go to task manager if you do not have admin priviliges and you can find "Family Safety Monitor" and end task.
 
-WpcMonEnd is an Open-Source project by Seb Beattie
+WpcMonEnd is an Open-Source project by ElementalMP4
 2019 V1.0
